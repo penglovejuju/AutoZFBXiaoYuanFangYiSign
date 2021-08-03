@@ -1,0 +1,33 @@
+2021-08-03 23:06:33.248434
+历史定位签到模式
+单人签到模式
+当前IP：20.97.251.233,
+
+ 美国DXCTechnology
+
+系统时间：2021-08-03 23:06:57
+UTC时间：2021-08-04 00:06:48
+北京时间：2021-08-04 07:06:43
+北京时间与系统时间误差：7:59:45.685862
+2021-08-03 23:06:57.314194:190628050123签到开始
+NAME彭畅
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+NAME彭畅
+COOKIE OK
+开始签到
+NAME彭畅
+定位 114.998207，27.257697，江西省吉安市吉州区吉州区远山
+{"status":0,"result":{"location":{"lng":115.0097819069222,"lat":27.2601777909031},"formatted_address":"江西省吉安市吉州区长亭路","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"吉安市","city_level":2,"district":"吉州区","town":"","town_code":"","adcode":"360802","street":"长亭路","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":318}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%90%89%E5%AE%89%E5%B8%82&district=%E5%90%89%E5%B7%9E%E5%8C%BA&street=%E5%90%89%E5%B7%9E%E5%8C%BA%E8%BF%9C%E5%B1%B1&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%90%89%E5%AE%89%E5%B8%82%E5%90%89%E5%B7%9E%E5%8C%BA%E5%90%89%E5%B7%9E%E5%8C%BA%E8%BF%9C%E5%B1%B1&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%90%89%E5%AE%89%E5%B8%82&bdistrict=%E5%90%89%E5%B7%9E%E5%8C%BA&bstreet=%E5%90%89%E5%B7%9E%E5%8C%BA%E8%BF%9C%E5%B1%B1&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%90%89%E5%AE%89%E5%B8%82&sdistrict=%E5%90%89%E5%B7%9E%E5%8C%BA&lng=114.998197&lat=27.257689&sfby=1
+签到成功
+2021-08-03 23:07:45.499122:190628050123签到结束
+彭畅190628050123签到成功！
+SERVER发送成功："{\"errcode\":0,\"errmsg\":\"ok\",\"invaliduser\":\"\"}"
+2021-08-03 23:07:52.734482程序结束
+######################################################################
+
+
+
+
