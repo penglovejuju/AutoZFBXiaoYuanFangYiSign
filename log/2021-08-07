@@ -1,0 +1,65 @@
+2021-08-07 16:40:40.664698
+历史定位签到模式
+多人签到模式190628050120, 190628050123, 190628050127, 190628050149
+当前IP：20.97.223.195,
+
+ 美国DXCTechnology
+
+系统时间：2021-08-07 16:40:41
+UTC时间：2021-08-07 17:40:40
+北京时间：2021-08-08 00:40:40
+北京时间与系统时间误差：7:59:58.215024
+2021-08-07 16:40:41.785028:190628050120签到开始
+cookie文件存在
+cookie文件加载成功
+NAME刘泽华
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME刘泽华
+定位 116.015917，28.681124，江西省南昌市南昌县紫阳大道115号江西科技学院
+{"status":0,"result":{"location":{"lng":116.02743452160992,"lat":28.684190407607944},"formatted_address":"江西省南昌市南昌县香樟东路","business":"昌东","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","adcode":"360121","street":"香樟东路","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E7%B4%AB%E9%98%B3%E5%A4%A7%E9%81%93115%E5%8F%B7%E6%B1%9F%E8%A5%BF%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82%E5%8D%97%E6%98%8C%E5%8E%BF%E7%B4%AB%E9%98%B3%E5%A4%A7%E9%81%93115%E5%8F%B7%E6%B1%9F%E8%A5%BF%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E7%B4%AB%E9%98%B3%E5%A4%A7%E9%81%93115%E5%8F%B7%E6%B1%9F%E8%A5%BF%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=116.015925&lat=28.681131&sfby=1
+签到成功
+2021-08-07 16:41:14.134636:190628050120签到结束
+2021-08-07 16:41:14.166041: 190628050123签到开始
+cookie文件存在
+cookie文件加载成功
+NAME彭畅
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME彭畅
+定位 114.998182，27.257685，江西省吉安市吉州区吉州区远山
+{"status":0,"result":{"location":{"lng":115.00976475607648,"lat":27.26017178848105},"formatted_address":"江西省吉安市吉州区长亭路","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"吉安市","city_level":2,"district":"吉州区","town":"","town_code":"","adcode":"360802","street":"长亭路","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":318}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%90%89%E5%AE%89%E5%B8%82&district=%E5%90%89%E5%B7%9E%E5%8C%BA&street=%E5%90%89%E5%B7%9E%E5%8C%BA%E8%BF%9C%E5%B1%B1&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%90%89%E5%AE%89%E5%B8%82%E5%90%89%E5%B7%9E%E5%8C%BA%E5%90%89%E5%B7%9E%E5%8C%BA%E8%BF%9C%E5%B1%B1&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%90%89%E5%AE%89%E5%B8%82&bdistrict=%E5%90%89%E5%B7%9E%E5%8C%BA&bstreet=%E5%90%89%E5%B7%9E%E5%8C%BA%E8%BF%9C%E5%B1%B1&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%90%89%E5%AE%89%E5%B8%82&sdistrict=%E5%90%89%E5%B7%9E%E5%8C%BA&lng=114.99818&lat=27.257683&sfby=1
+签到成功
+2021-08-07 16:41:38.486795: 190628050123签到结束
+2021-08-07 16:41:38.608682: 190628050127签到开始
+cookie文件存在
+cookie文件加载成功
+NAME汪会临
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+已经签到
+2021-08-07 16:41:48.271224: 190628050127签到结束
+2021-08-07 16:41:48.364235: 190628050149签到开始
+cookie文件存在
+cookie文件加载成功
+NAME邬鲜良
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+已经签到
+2021-08-07 16:41:56.807400: 190628050149签到结束
+4人全部签到成功!
+SERVER发送成功："{\"errcode\":0,\"errmsg\":\"ok\",\"invaliduser\":\"\"}"
+2021-08-07 16:42:09.161979程序结束
+######################################################################
+
+
+
+
