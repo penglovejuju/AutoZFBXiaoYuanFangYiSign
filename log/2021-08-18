@@ -1,0 +1,47 @@
+2021-08-18 16:38:28.578920
+历史定位签到模式
+多人签到模式190628050120, 190628050123
+当前IP：20.80.177.137,
+
+ 美国DXCTechnology
+
+系统时间：2021-08-18 16:38:33
+UTC时间：2021-08-18 17:38:28
+北京时间：2021-08-19 00:38:28
+北京时间与系统时间误差：7:59:54.523670
+2021-08-18 16:38:33.476378:190628050120签到开始
+cookie文件存在
+cookie文件加载成功
+NAME刘泽华
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME刘泽华
+定位 116.015931，28.681122，江西省南昌市
+{"status":0,"result":{"location":{"lng":116.0274326217022,"lat":28.684182238509714},"formatted_address":"江西省南昌市南昌县香樟东路","business":"昌东","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","adcode":"360121","street":"香樟东路","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=116.015923&lat=28.681123&sfby=1
+签到成功
+2021-08-18 16:39:09.250174:190628050120签到结束
+2021-08-18 16:39:09.360035: 190628050123签到开始
+cookie文件存在
+cookie文件加载成功
+NAME彭畅
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME彭畅
+定位 114.998202，27.257675，江西省吉安市
+{"status":0,"result":{"location":{"lng":115.00978379648602,"lat":27.260156873219747},"formatted_address":"江西省吉安市吉州区长亭路","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"吉安市","city_level":2,"district":"吉州区","town":"","town_code":"","adcode":"360802","street":"长亭路","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":318}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%90%89%E5%AE%89%E5%B8%82&district=%E5%90%89%E5%B7%9E%E5%8C%BA&street=%E5%90%89%E5%AE%89%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%90%89%E5%AE%89%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%90%89%E5%AE%89%E5%B8%82&bdistrict=%E5%90%89%E5%B7%9E%E5%8C%BA&bstreet=%E5%90%89%E5%AE%89%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%90%89%E5%AE%89%E5%B8%82&sdistrict=%E5%90%89%E5%B7%9E%E5%8C%BA&lng=114.998199&lat=27.257668&sfby=1
+签到成功
+2021-08-18 16:39:37.120810: 190628050123签到结束
+2人全部签到成功!
+SERVER发送成功："{\"errcode\":0,\"errmsg\":\"ok\",\"invaliduser\":\"\",\"msgid\":\"mrVtVXE39it1tWVvd57npLPOhdYCR-C6fmYLVTxcqVmcA2S9jSU018Za48zfyvU97HRtNHLQXaJy9DOOfb6mFg\"}"
+2021-08-18 16:39:41.059553程序结束
+######################################################################
+
+
+
+
