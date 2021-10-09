@@ -1,0 +1,89 @@
+2021-10-09 16:45:04.764190
+历史定位签到模式
+多人签到模式190628050112, 190628050120, 190628050123, 190628050138, 190628050139
+当前IP：20.112.113.84,
+
+ 美国DXCTechnology
+
+系统时间：2021-10-09 16:45:09
+UTC时间：2021-10-09 17:45:04
+北京时间：2021-10-10 00:45:04
+北京时间与系统时间误差：7:59:54.856196
+2021-10-09 16:45:09.143868:190628050112签到开始
+cookie文件存在
+cookie文件加载成功
+NAME郭继兰
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME郭继兰
+定位 115.99832，28.669854，江西省南昌市
+{"status":0,"result":{"location":{"lng":116.00984054280738,"lat":28.672544952686473},"formatted_address":"江西省南昌市南昌县艾溪湖南路辅路","business":"昌东,广阳路","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","adcode":"360121","street":"艾溪湖南路辅路","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=115.998318&lat=28.669856&sfby=1
+签到成功
+2021-10-09 16:46:22.163946:190628050112签到结束
+2021-10-09 16:46:22.270341: 190628050120签到开始
+cookie文件存在
+cookie文件加载成功
+NAME刘泽华
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME刘泽华
+定位 115.997284，28.669575，江西省南昌市
+{"status":0,"result":{"location":{"lng":116.00879842400195,"lat":28.672242615872876},"formatted_address":"江西省南昌市南昌县艾溪湖南路辅路","business":"昌东,广阳路","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","adcode":"360121","street":"艾溪湖南路辅路","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=115.997275&lat=28.669575&sfby=1
+签到成功
+2021-10-09 16:47:22.577084: 190628050120签到结束
+2021-10-09 16:47:22.658232: 190628050123签到开始
+cookie文件存在
+cookie文件加载成功
+NAME彭畅
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME彭畅
+定位 115.997333，28.669499，江西省南昌市
+{"status":0,"result":{"location":{"lng":116.00885536675037,"lat":28.67216869127829},"formatted_address":"江西省南昌市南昌县艾溪湖南路辅路","business":"昌东,广阳路","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","adcode":"360121","street":"艾溪湖南路辅路","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=115.997332&lat=28.6695&sfby=1
+签到成功
+2021-10-09 16:48:28.672070: 190628050123签到结束
+2021-10-09 16:48:28.860051: 190628050138签到开始
+cookie文件存在
+cookie文件加载成功
+NAME易文
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME易文
+定位 115.997564，28.669619，江西省南昌市
+{"status":0,"result":{"location":{"lng":116.00907833011883,"lat":28.672299431345118},"formatted_address":"江西省南昌市南昌县艾溪湖南路辅路","business":"昌东,广阳路","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","adcode":"360121","street":"艾溪湖南路辅路","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=115.997555&lat=28.669626&sfby=1
+签到成功
+2021-10-09 16:49:28.685476: 190628050138签到结束
+2021-10-09 16:49:28.770697: 190628050139签到开始
+cookie文件存在
+cookie文件加载成功
+NAME易志斌
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME易志斌
+定位 115.997114，28.669477，江西省南昌市
+{"status":0,"result":{"location":{"lng":116.00864166863338,"lat":28.672148279291738},"formatted_address":"江西省南昌市南昌县艾溪湖南路辅路","business":"昌东,广阳路","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","adcode":"360121","street":"艾溪湖南路辅路","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=115.997118&lat=28.669484&sfby=1
+签到成功
+2021-10-09 16:50:29.459888: 190628050139签到结束
+5人全部签到成功!
+SERVER发送成功："{\"errcode\":0,\"errmsg\":\"ok\",\"invaliduser\":\"\",\"msgid\":\"mrVtVXE39it1tWVvd57npHTcod_w6HJxX7ilqYKXZaIF7ITV1GU1_07z0jm5yEa0DO7nc9_TwrQKoyCJ0ypcVg\"}"
+2021-10-09 16:50:32.002428程序结束
+######################################################################
+
+
+
+
