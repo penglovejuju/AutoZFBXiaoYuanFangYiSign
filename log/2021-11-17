@@ -1,0 +1,61 @@
+2021-11-17 16:39:35.906243
+历史定位签到模式
+多人签到模式190628050142, 190628050143, 190628050144
+当前IP：13.65.85.39,
+
+ 美国Microsoft公司
+
+系统时间：2021-11-17 16:39:42
+UTC时间：2021-11-17 16:39:36
+北京时间：2021-11-18 00:39:36
+北京时间与系统时间误差：7:59:53.807226
+2021-11-17 16:39:42.192858:190628050142签到开始
+cookie文件存在
+cookie文件加载成功
+NAME张志攀
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME张志攀
+定位 115.997436，28.669596，江西省南昌市
+{"status":0,"result":{"location":{"lng":116.00895430955721,"lat":28.672262606735154},"formatted_address":"江西省南昌市南昌县艾溪湖南路辅路","business":"昌东,广阳路","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","adcode":"360121","street":"艾溪湖南路辅路","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=115.997431&lat=28.669592&sfby=1
+签到成功
+2021-11-17 16:40:19.933983:190628050142签到结束
+2021-11-17 16:40:20.134946: 190628050143签到开始
+cookie文件存在
+cookie文件加载成功
+NAME赵鹏
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME赵鹏
+定位 115.997211，28.669411，江西省南昌市
+{"status":0,"result":{"location":{"lng":116.00874157423836,"lat":28.67208619662708},"formatted_address":"江西省南昌市南昌县艾溪湖南路辅路","business":"昌东,广阳路","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","adcode":"360121","street":"艾溪湖南路辅路","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=115.997218&lat=28.66942&sfby=1
+签到成功
+2021-11-17 16:40:41.755233: 190628050143签到结束
+2021-11-17 16:40:41.787901: 190628050144签到开始
+cookie文件存在
+cookie文件加载成功
+NAME钟炜
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME钟炜
+定位 115.997401，28.669408，江西省南昌市
+{"status":0,"result":{"location":{"lng":116.00891742300323,"lat":28.672069893212205},"formatted_address":"江西省南昌市南昌县艾溪湖南路辅路","business":"昌东,广阳路","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","adcode":"360121","street":"艾溪湖南路辅路","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=115.997394&lat=28.6694&sfby=1
+签到成功
+2021-11-17 16:40:54.858871: 190628050144签到结束
+3人全部签到成功!
+SERVER发送成功："{\"errcode\":0,\"errmsg\":\"ok\",\"msgid\":\"mrVtVXE39it1tWVvd57npJqJ4J-25uagDkjG5z81TUIFdbipNoNc-oPOs_XaLgJf1i-0_hRAuu119lu1rsxHaQ\"}"
+2021-11-17 16:40:57.587671程序结束
+######################################################################
+
+
+
+
