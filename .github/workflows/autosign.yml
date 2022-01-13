@@ -4,7 +4,9 @@ on:
   push:
   schedule:
 #     - cron: '30 */9 * * *'
-    - cron: '10 16,17 * * *'
+#    - cron: '14 16,17 * * *'
+#      -cron: '0 0 21,22 * * * *'
+     - cron: '14 21,22 * * *'
 
 jobs:
   sign:
